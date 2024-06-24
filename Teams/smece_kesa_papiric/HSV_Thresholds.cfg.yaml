@@ -1,0 +1,62 @@
+classes:
+  - class_name: plava_kesa
+    class_id: 0
+    bb_color: [0, 0, 255]
+    H:
+      start: 110
+      stop: 130
+    S:
+      start: 150
+      stop: 255
+    V:
+      start: 150
+      stop: 255
+  - class_name: zelena_kesa
+    class_id: 1
+    bb_color: [0, 255, 0]
+    H:
+      start: 35
+      stop: 85
+    S:
+      start: 100
+      stop: 255
+    V:
+      start: 100
+      stop: 255
+  - class_name: crvena_kesa
+    class_id: 2
+    bb_color: [255, 0, 0]
+    H:
+      start: 0
+      stop: 10
+    S:
+      start: 150
+      stop: 255
+    V:
+      start: 150
+      stop: 255
+  - class_name: zuta_kesa
+    class_id: 3
+    bb_color: [255, 255, 0]
+    H:
+      start: 25
+      stop: 35
+    S:
+      start: 150
+      stop: 255
+    V:
+      start: 150
+      stop: 255
+  - class_name: bela_kesa
+    class_id: 4
+    bb_color: [255, 255, 255]
+    H:
+      start: 0
+      stop: 180
+    S:
+      start: 0
+      stop: 30
+    V:
+      start: 200
+      stop: 255
+
